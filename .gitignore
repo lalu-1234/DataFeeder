@@ -1,7 +1,8 @@
+/.vscode
 /logs
 /test
 
-__pycache__
+/Python/__pycache__
 
 .env
 
